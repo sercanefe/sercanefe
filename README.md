@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sercanefe
-- 👀 I’m interested in web designing, programming, digital marketing, graphic designing, social media expert, syber security, music, painting
-- 🌱 I’m currently learning python & penetration testing
+- 👀 I’m interested in ios developing, web designing, programming, digital marketing, graphic designing, social media expert, syber security, music, painting
+- 🌱 I’m currently learning machine learning, AI, iOS & watchOS developing
 - 📫 How to reach me:
   mail: sercanveefe@gmail.com
   instagram: @sercvnnn 
