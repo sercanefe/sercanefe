@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sercanefe
-- 👀 I’m interested in ios developing, web designing, programming, digital marketing, graphic designing, social media expert, syber security, music, painting
-- 🌱 I’m currently learning machine learning, AI, iOS & watchOS developing
+- 👀 I’m interested in nft, cyrptocurrency, UI UX designs, web designing, programming, digital marketing, graphic designing, social media marketing, music, painting
+- 🌱 I’m currently learning image processing, mobile developing, database, blockchain developing
 - 📫 How to reach me:
   mail: sercanveefe@gmail.com
   instagram: @sercvnnn 
