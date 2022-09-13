@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @sercanefe
+- 👋 Hi, I’m @sercanefe - UI UX Designer
+- 🖥 My Portfolio (Behance): https://www.behance.net/sercankaraman 
 - 👀 I’m interested in nft, cyrptocurrency, UI UX designs, web designing, programming, digital marketing, graphic designing, social media marketing, music, painting
-- 🌱 I’m currently learning image processing, mobile developing, database, blockchain developing
 - 📫 How to reach me:
   mail: sercanveefe@gmail.com
-  instagram: @sercvnnn 
+  instagram: @sercvnefe
+  linkedin: Sercan Efe Karaman
 
 <!---
 sercanefe/sercanefe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
